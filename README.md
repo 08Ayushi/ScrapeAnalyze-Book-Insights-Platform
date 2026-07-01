@@ -1,4 +1,4 @@
-# Python Web Scraping & Data Analysis Project
+# ScrapeAnalyze-Book-Insights-Platform
 
 This is a beginner-friendly end-to-end Python project for job applications where **web scraping is mandatory**.
 
