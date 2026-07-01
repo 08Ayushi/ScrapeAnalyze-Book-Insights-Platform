@@ -1,7 +1,5 @@
 # ScrapeAnalyze-Book-Insights-Platform
 
-This is a beginner-friendly end-to-end Python project for job applications where **web scraping is mandatory**.
-
 The project includes:
 
 - Web scraping using **BeautifulSoup**
@@ -248,36 +246,3 @@ Used to classify books into:
 
 - High price
 - Low price
-
----
-
-## Resume Description
-
-You can write this in your resume after running and understanding the project:
-
-```text
-Python Web Scraping & Data Analysis Project
-Tech Stack: Python, BeautifulSoup, Selenium, Pandas, NumPy, CSV, Matplotlib, Scikit-Learn
-
-- Developed Python scripts to scrape structured data from static and JavaScript-rendered websites using BeautifulSoup and Selenium.
-- Cleaned and preprocessed scraped datasets using Pandas and NumPy for analysis and ML-ready formatting.
-- Stored extracted data in CSV format and performed structured JSON/CSV-style data processing.
-- Performed exploratory data analysis using Matplotlib to identify book price, rating, and category trends.
-- Applied Linear Regression and Logistic Regression models using Scikit-Learn for price prediction and price category classification.
-```
-
----
-
-## Interview Explanation
-
-You can explain it like this:
-
-```text
-I built a Python-based web scraping and data analysis project where I scraped book data using BeautifulSoup and scraped JavaScript-rendered quote data using Selenium. After collecting the data, I stored it in CSV format, cleaned and preprocessed it using Pandas and NumPy, performed exploratory data analysis using Matplotlib, and applied basic Scikit-Learn models such as Linear Regression and Logistic Regression.
-```
-
----
-
-## Important Note
-
-Only add this project to your resume after you run it, understand the code, and upload it to GitHub with generated CSV files/charts or screenshots.
